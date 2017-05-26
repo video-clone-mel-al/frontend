@@ -2,7 +2,7 @@
 
 **git clone https://github.com/video-clone-mel-al/frontend**
 
-#### To get the dev server up and running 
+### To get the dev server up and running:
 **cd angular-starter**
 **npm install** 
 **npm run server**
